@@ -1,2 +1,1 @@
-# typeS
-TypesScript
+# Desafios Dio TypeScript
